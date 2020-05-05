@@ -36,4 +36,4 @@ setTimeout(() => {
 
 ### Vue 响应式原理文件图解（仅data属性）
 
-<img src="http://mpv-blog.oss-cn-beijing.aliyuncs.com/WeChate20b9acdcd73e42f926528bd73da52c8.png" width="400px" />
+<img src="http://mpv-blog.oss-cn-beijing.aliyuncs.com/WeChate20b9acdcd73e42f926528bd73da52c8.png" width="750px" />
